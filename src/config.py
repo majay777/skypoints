@@ -1,7 +1,3 @@
-"""
-SkyPoints Airline Loyalty ETL - Configuration and Constants
-Incubyte Data Engineer Technical Assessment
-"""
 
 from pathlib import Path
 

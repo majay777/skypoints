@@ -1,7 +1,4 @@
-"""
-SkyPoints Airline Loyalty ETL - Ingestion Module
-Handles raw flat-file pipe parsing and JSON feed loading.
-"""
+
 
 import json
 from pathlib import Path
