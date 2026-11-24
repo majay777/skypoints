@@ -1,8 +1,5 @@
 """
-================================================================================
-SkyPoints Airline Loyalty ETL - Live Demonstration Runner
-Incubyte Data Engineer Technical Assessment
-================================================================================
+
 Run directly via:
     python demo.py
 or
